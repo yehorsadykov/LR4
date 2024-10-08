@@ -1,0 +1,14 @@
+D:\Directory\LR4\Task\bin\Debug\net8.0\Task.exe
+D:\Directory\LR4\Task\bin\Debug\net8.0\Task.deps.json
+D:\Directory\LR4\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+D:\Directory\LR4\Task\bin\Debug\net8.0\Task.dll
+D:\Directory\LR4\Task\bin\Debug\net8.0\Task.pdb
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.dll
+D:\Directory\LR4\Task\obj\Debug\net8.0\refint\Task.dll
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.pdb
+D:\Directory\LR4\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+D:\Directory\LR4\Task\obj\Debug\net8.0\ref\Task.dll
